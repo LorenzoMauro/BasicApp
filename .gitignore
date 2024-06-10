@@ -1,0 +1,4 @@
+out/
+compile_commands.json
+cmake_install.cmake
+src/CMakeFiles/

@@ -1,0 +1,19 @@
+{
+  "name": "starterapp",
+  "version-string": "1.0",
+  "dependencies": [
+    "glad",
+    "spdlog",
+    "glfw3",
+    "stb",
+    {
+      "name": "imgui",
+      "features": [
+        "docking-experimental",
+        "opengl3-binding",
+        "glfw-binding",
+        "win32-binding"
+      ]
+    }
+  ]
+}
